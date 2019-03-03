@@ -1,6 +1,6 @@
 # paper-critiques
 
-This is the paper critique storage for the course of Advanced topics in MutiMedia Analysis and Indexing (AMMAI) in NTU CSIE.
+This is the paper critique storage for the course of [Advanced topics in MutiMedia Analysis and Indexing (AMMAI)](https://winstonhsu.info/ammai-19s/) in NTU CSIE.
 
 - Week 03 - Data Augmentation Strategies for Machine (Deep) Learning (3/7)
   - Papers:
