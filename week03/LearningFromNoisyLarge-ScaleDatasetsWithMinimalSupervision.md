@@ -2,23 +2,18 @@
 
 ## Abstract
 The aurthers propose an approach to effectively and efficiently leverage a small amount of clean annotations in conjunction with 
-large amounts of noisy annotaed data to learn powerful image representations.
+large amounts of noisy annotated data to learn powerful image representations.
 
 ## Novelties
-First, most of the approaches which tackle the noisy annotation problem pre-train a model with the noisy data 
-and then fine-tune it with the clean dataset. They argue that such methods do not fully lereage the information contained in the clean annotaions.
-So, they propose an alternative multi-task approach to learn a mapping between noisy and clean annatations using a label-cleaning network, 
-and jointly learn the image classification by a multi-label classifier.
+First, most of the approaches which tackle the noisy annotation problem pre-train a model with the noisy data and then fine-tune it with the clean dataset. They argue that such methods do not fully leverage the information contained in the clean annotations.
+So, they propose an alternative multi-task approach to learn a mapping between noisy and clean annatations using a label-cleaning network, and jointly learn the image classification by a multi-label classifier.
 
-Second, they consider a multi-label image classification problem for present all concepts of image which is a common senario. In stead of assuming 
-that all classes are independent like many approaches, they model the label-cleaning network as conditionally dependent on noisy input labels.
+Second, they consider a multi-label image classification problem for present all concepts of image which is a general senario. In stead of assuming that all classes are independent like many approaches, they model the label-cleaning network as conditionally dependent on noisy input labels.
 
-Moreover, to address the *multiple semantic modes*. For example, the calss coconut may include an image containing a drink, a fruit, or a tree. 
-They utilize a CNN as feature extractor to capture the semantic features of the input image.
+Moreover, to address the *multiple semantic modes*, for example, the calss coconut may include an image containing a drink, a fruit, or a tree, they utilize a CNN as feature extractor to capture the semantic features of the input image.
 
 ## Contributions
-First, they introduce a semi-supervised learning framework for multi-label image classification which facilitates small sets of clean annotaions 
-in conjunction with massive sets of noisy annotations.
+First, they introduce a semi-supervised learning framework for multi-label image classification which facilitates small sets of clean annotations in conjunction with massive sets of noisy annotations.
 
 Second, they provide a first benchmark on the Open Image Dataset which is a large-scale image dataset recently released by Google.
 
