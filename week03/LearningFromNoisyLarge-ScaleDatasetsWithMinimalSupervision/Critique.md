@@ -6,7 +6,7 @@ large amounts of noisy annotated data to learn powerful image representations.
 
 ## Novelties
 
-<img width="50%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week03/LearningFromNoisyLarge-ScaleDatasetsWithMinimalSupervision/Overview.png"/>
+<img width="60%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week03/LearningFromNoisyLarge-ScaleDatasetsWithMinimalSupervision/Overview.png"/>
 
 First, most of the approaches which tackle the noisy annotation problem pre-train a model with the noisy data and then fine-tune it with the clean dataset. They argue that such methods do not fully leverage the information contained in the clean annotations.
 So, they propose an alternative multi-task approach to learn a mapping between noisy and clean annatations using a label-cleaning network, and jointly learn the image classification by a multi-label classifier.
@@ -16,6 +16,9 @@ Second, they consider a multi-label image classification problem for present all
 Moreover, to address the *multiple semantic modes*, for example, the calss coconut may include an image containing a drink, a fruit, or a tree, they utilize a CNN as feature extractor to capture the semantic features of the input image.
 
 ## Contributions
+
+<img width="100%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week03/LearningFromNoisyLarge-ScaleDatasetsWithMinimalSupervision/Framework.png"/>
+
 First, they introduce a semi-supervised learning framework for multi-label image classification which facilitates small sets of clean annotations in conjunction with massive sets of noisy annotations.
 
 Second, they provide a first benchmark on the Open Image Dataset which is a large-scale image dataset recently released by Google.
