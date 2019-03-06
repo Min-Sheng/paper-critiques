@@ -37,7 +37,7 @@ To remain the valid label space of the cleaned label output to 0 and 1, this pap
 And I wonder why not use the sigmoid function just likes the image classifier used?
 
 ## Promising Applications
-
+It can be help the image retrieval more precise in social network because everyone can leave any commit or messenge and make the data become noisy.
 
 ## Technical Summarizes
-
+The archetecture of the model comprises one Inception V3 as feature extractor, one label-cleaning network, and one image classifier. Both the label-cleaning network and the image classifier share the feautre from the feature extractor while the label-cleaning network concatenate it with word embedding from noisy labels. Then, there are two loss functions－L1 loss between the predicted cleaned labels and the GT cleaned labels; the cross-entropy for classification.
