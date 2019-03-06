@@ -22,6 +22,8 @@ They did not explain why the hyper-parameter "r" in the LSE (Log-Sum-Exp) poolin
 
 make the AUC drop down at r=5 and climb to the peak at r=10?
 
+<img width="50%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week03/ChestX-ray8:Hospital-scaleChestX-rayDatabaseAndBenchmarksonWeakly-SupervisedClassificationAndLocalizationOfCommonThoraxDiseases/Global_pooling.png"/>
+
 ## Promising Applications
 Although the truly latge-scale and fully-automated high precision medical diagnosis system still remians a strenuous task to be fulfilled. This work give us some insight for using finite annotations to assist the developement of a data-driven model.
 
