@@ -30,7 +30,11 @@ They assume that in reality learning senarios are closer to semi-supervised lear
 while a large amount of data is noisy either missing.
 
 ## Questions 
+To remain the valid label space of the cleaned label output to 0 and 1, this paper applys the clipping operation:
 
+<img width="25%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week03/LearningFromNoisyLarge-ScaleDatasetsWithMinimalSupervision/Clip.png"/>
+
+And I wonder why not use the sigmoid function just likes the image classifier used?
 
 ## Promising Applications
 
