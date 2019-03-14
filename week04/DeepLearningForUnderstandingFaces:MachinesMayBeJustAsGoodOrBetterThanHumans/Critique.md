@@ -33,6 +33,11 @@ Three important modules in the face recognition pipeline:
 ## Insights
 - Multi-task learning (MTL) is beneficial for improving the accuracy of facial analytics.
 
+<img width="75%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week04/DeepLearningForUnderstandingFaces:MachinesMayBeJustAsGoodOrBetterThanHumans/MTL-based_Methods.png"/>
+
+- Developing a robust strategy to learn from small-scale or noisy data is challenging but prospective.
+- Choosing more informative pairs or triplets to better perform the metric learning and end-to-end online training the network is still an open issue. 
+
 ## Promising Applications
 The paper can be a fundamental knowledge and provides some insights for the researches in the field of facial analytics.
 
