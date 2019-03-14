@@ -24,7 +24,9 @@ Three important modules in the face recognition pipeline:
 
 <img width="75%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week04/DeepLearningForUnderstandingFaces:MachinesMayBeJustAsGoodOrBetterThanHumans/Regression-based_Keypoint_Estimator.png"/>
 
-- Face identification and verification:
+- Face verification and identification:
+  - Face verification: Given a pair of face images, the system requires to predict whether they belong to the same subject or not.
+  - Face identification: Given a unknown face image, the system should determine the subject's identity by matching the features from the database.  
 
 <img width="75%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week04/DeepLearningForUnderstandingFaces:MachinesMayBeJustAsGoodOrBetterThanHumans/Face_Recognizer.png"/>
 
