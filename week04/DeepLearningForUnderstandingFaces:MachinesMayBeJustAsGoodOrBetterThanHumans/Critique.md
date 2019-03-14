@@ -43,7 +43,7 @@ The paper can be a fundamental knowledge and provides some insights for the rese
 
 ## Questions
 
-The sentance: "... for smaller models, training using wider data sets is better than training using deeper data sets, while for deeper models, training using **wider** data sets is better." seems to be wrong.
+The sentance: "... for smaller models, training using wider data sets is better than training using deeper data sets, while for deeper models, training using **wider** data sets is better." seems to have a mistake.
 
 <img width="50%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week04/DeepLearningForUnderstandingFaces:MachinesMayBeJustAsGoodOrBetterThanHumans/Question.png"/>
 
