@@ -16,17 +16,17 @@ Three important modules in the face recognition pipeline:
   - Region based: Faster R-CNN
   - Sliding-window based: Single-shot detector (SSD)
 
-<img width="75%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week04/DeepLearningForUnderstandingFaces:MachinesMayBeJustAsGoodOrBetterThanHumans/Face_detector.png"/>
+<img width="75%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week04/DeepLearningForUnderstandingFaces:MachinesMayBeJustAsGoodOrBetterThanHumans/Face_Detector.png"/>
 
 - Facial landmark detection and head orientation estimation:
   - Model based
   - Cascaded regression based
 
-<img width="75%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week04/DeepLearningForUnderstandingFaces:MachinesMayBeJustAsGoodOrBetterThanHumans/Face_recognizer.png"/>
+<img width="75%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week04/DeepLearningForUnderstandingFaces:MachinesMayBeJustAsGoodOrBetterThanHumans/Regression-based_Keypoint_Estimator.png"/>
 
 - Face identification and verification:
 
-<img width="75%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week04/DeepLearningForUnderstandingFaces:MachinesMayBeJustAsGoodOrBetterThanHumans/Regression-based_keypoint_estimator.png"/>
+<img width="75%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week04/DeepLearningForUnderstandingFaces:MachinesMayBeJustAsGoodOrBetterThanHumans/Face_Recognizer.png"/>
 
 ## Insights
 - Multi-task learning (MTL) is beneficial for improving the accuracy of facial analytics.
