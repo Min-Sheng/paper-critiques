@@ -45,6 +45,6 @@ The paper can be a fundamental knowledge and provides some insights for the rese
 
 The sentance: "... for smaller models, training using wider data sets is better than training using deeper data sets, while for deeper models, training using **wider** data sets is better." seems to be wrong.
 
-<img width="75%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week04/DeepLearningForUnderstandingFaces:MachinesMayBeJustAsGoodOrBetterThanHumans/Question.png"/>
+<img width="50%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week04/DeepLearningForUnderstandingFaces:MachinesMayBeJustAsGoodOrBetterThanHumans/Question.png"/>
 
 Shoudn't it be: "training using **deeper** data sets is better." ?
