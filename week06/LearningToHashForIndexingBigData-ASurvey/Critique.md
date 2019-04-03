@@ -13,7 +13,7 @@ The three steps in hashing-based Approximate Nearest Neighbor (ANN) search could
 
 For designing hash functions, this paper summaries the data-dependent methods, e.g. random projection and permutation hashing, which are LSH family approaches, and the data-independent methods, which also called the learning-based hashing. 
 
-Diving deeper with the learning-based hashing, there are unsupervised, supervised, and semi-supervised approaches depend on the level of supervision. And according to the kind of similarity metrics, they can be group into several subcategories, including pointwise, pairwise, tripletwise, and listwise. Besides, there have linear and nonlinear methods. The linear one, likes PCA hashing, shows the advantage of simplicity while the nonlinear, likes spectral hashing has more discriminate power.
+Diving deeper with the learning-based hashing, there are unsupervised, supervised, and semi-supervised approaches depend on the level of supervision. And according to the kind of similarity metrics, they can be group into several subcategories, including pointwise, pairwise, tripletwise, and listwise. Besides, there have linear and nonlinear methods. The linear one, likes PCA hashing, shows the advantage of simplicity while the nonlinear, likes spectral hashing has more discriminative power.
 
 ## Insights
 
