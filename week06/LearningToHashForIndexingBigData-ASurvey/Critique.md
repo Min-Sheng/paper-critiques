@@ -16,7 +16,13 @@ For designing hash functions, this paper summaries the data-dependent methods, e
 Diving deeper with the learning-based hashing, there are unsupervised, supervised, and semi-supervised approaches depend on the level of supervision. And according to the kind of similarity metrics, they can be group into several subcategories, including pointwise, pairwise, tripletwise, and listwise. Besides, there have linear and nonlinear methods. The linear one, likes PCA hashing, shows the advantage of simplicity while the nonlinear, likes spectral hashing has more discriminative power.
 
 ## Insights
+Although the learning-based hashing methods have made some progress in tackling some large scale indexing tasks, it still remains a main drawback, which is lacking the theoretical guarantees on the quality of returned neighbors. Hence, the further researches about the theoretical properties are critical.
 
+Also, this paper provides other open issues:
+1. Can the compact hashing codes be used directly to perform generic machine learning tasks?
+2. Can the representation learning be integrate with binary code learning to alleviate the semantic gap?
 
 ## Promising Applications
-Hashing can accelerate the development of multimedia indexing, including text/image/vedio search and retrieval. Besides, it also could help to solve a lot of computer vision problem, such as image patch matching, image classification, face recognition, pose estimation, object tracking, etc.
+Hashing can accelerate the development of multimedia indexing, including text/image/vedio search and retrieval. Besides, it also could help to solve a lot of computer vision problems, such as image patch matching, image classification, face recognition, pose estimation, object tracking, etc.
+
+Moreover, the learning hashing framework could also apply to general machine learning tasks, likes cross-modality data fusion, large scale optimization/classification/regression, collaborative filtering, and recommendation.
