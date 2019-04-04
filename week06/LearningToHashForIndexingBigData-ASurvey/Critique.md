@@ -19,4 +19,4 @@ Diving deeper with the learning-based hashing, there are unsupervised, supervise
 
 
 ## Promising Applications
-
+Hashing can accelerate the development of multimedia indexing, including text/image/vedio search and retrieval. Besides, it also could help to solve a lot of computer vision problem, such as image patch matching, image classification, face recognition, pose estimation, object tracking, etc.
