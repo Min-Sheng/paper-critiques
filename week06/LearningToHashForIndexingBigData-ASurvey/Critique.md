@@ -20,9 +20,9 @@ Although the learning-based hashing methods have made some progress in tackling 
 
 Also, this paper provides other open issues:
 1. Can the compact hashing codes be used directly to perform generic machine learning tasks?
-2. Can the representation learning be integrate with binary code learning to alleviate the semantic gap?
+2. Can the representation learning be integrated with binary code learning to alleviate the semantic gap?
 
 ## Promising Applications
 Hashing can accelerate the development of multimedia indexing, including text/image/vedio search and retrieval. Besides, it also could help to solve a lot of computer vision problems, such as image patch matching, image classification, face recognition, pose estimation, object tracking, etc.
 
-Moreover, the learning hashing framework could also apply to general machine learning tasks, likes cross-modality data fusion, large scale optimization/classification/regression, collaborative filtering, and recommendation.
+Moreover, the learning hashing framework could also be applied to general machine learning tasks, likes cross-modality data fusion, large scale optimization/classification/regression, collaborative filtering, and recommendation.
