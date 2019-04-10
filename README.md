@@ -12,4 +12,6 @@ This is the paper critique storage for the course of [Advanced topics in MutiMed
 - Week 06 - Advanced Hash Learning and Optimization (03/28)
   - Papers:
     - Wang et al., “Learning to Hash for Indexing Big Data - A Survey”. Proceedings of the IEEE, 2016. [[paper](https://arxiv.org/abs/1509.05472)][[critique](https://github.com/Min-Sheng/paper-critiques/blob/master/week06/LearningToHashForIndexingBigData-ASurvey/Critique.md)]
-
+- Week 06 - Week 08 – Manifold Learning and Optimization (4/11)
+  - Papers:
+    - “Graph Embedding and Extensions: A General Framework for Dimensionality Reduction,” Shuicheng Yan et al., PAMI 2007. [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.453.8815&rep=rep1&type=pdf)][[critique](https://github.com/Min-Sheng/paper-critiques/blob/master/week08/GraphEmbeddingAndExtensions:AGeneralFrameworkForDimensionalityReduction/Critique.md)]
