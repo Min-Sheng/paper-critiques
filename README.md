@@ -15,3 +15,6 @@ This is the paper critique storage for the course of [Advanced topics in MutiMed
 - Week 08 – Manifold Learning and Optimization (4/11)
   - Papers:
     - “Graph Embedding and Extensions: A General Framework for Dimensionality Reduction,” Shuicheng Yan et al., PAMI 2007. [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.453.8815&rep=rep1&type=pdf)][[critique](https://github.com/Min-Sheng/paper-critiques/blob/master/week08/GraphEmbeddingAndExtensions:AGeneralFrameworkForDimensionalityReduction/Critique.md)]
+- Week 09 – Sparse Coding and Solvers (04/25)
+  - Papers:
+    - Bor-Chun Chen, Yan-Ying Chen, Yin-Hsi Kuo, Winston H. Hsu. Scalable Face Image Retrieval Using Attribute-Enhanced Sparse Codewords. IEEE Trans. Multimedia 15(5): 1163-1173 (2013) [[paper](http://cmlab.csie.ntu.edu.tw/~sirius42/papers/tmm12.pdf)][[critique](https://github.com/Min-Sheng/paper-critiques/blob/master/week09/ScalableFaceImageRetrievalUsingAttribute-EnhancedSparseCodewords/Critique.md)]
