@@ -24,7 +24,9 @@ And the following is the overview of the whole framework:
 <img width="90%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week09/ScalableFaceImageRetrievalUsingAttribute-EnhancedSparseCodewords/overview.png"/>
 
 ## Technical Summarizes
+In the Attribute-enhanced Sparse Coding (ASC), incorporating the automatically detected attribute features could make the sparse representation better while assigning the soft attribute weights could further prevent the imperfect of the detected attributes.
 
 <img width="50%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week09/ScalableFaceImageRetrievalUsingAttribute-EnhancedSparseCodewords/attribute enhancing coding.png"/>
 
+In the Attribute Embedded Inverted Indexing (AEI), considering the attribute information in the index system could skip images with large hamming distance and improve the retrieval performance. 
 <img width="40%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week09/ScalableFaceImageRetrievalUsingAttribute-EnhancedSparseCodewords/attribute embedded inverted indexing.png"/>
