@@ -9,6 +9,6 @@ First, The authers propose three different neural topic models which comines bot
 
 Second, the proposed models could be trained efficiently along with variational inference by backpropagation.
 
-Thrid, as probabilistic graphical models, they are interpretable and explicitly represent the dependencies amongst the random variables.
+Third, as probabilistic graphical models, they are interpretable and explicitly represent the dependencies amongst the random variables.
 
 Fourth, through evaluations on several datasets, the authers demonsrate that the proposed models are more robust and effective than previous methods. 
