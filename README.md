@@ -21,4 +21,7 @@ This is the paper critique storage for the course of [Advanced topics in MutiMed
 - Week 11 – Latent Semantic Analysis  (5/2)
   - Papers:
     - Yishu Miao‚ Edward Grefenstette and Phil Blunsom. Discovering Discrete Latent Topics with Neural Variational Inference. ICML 2017. [[paper](https://arxiv.org/abs/1706.00359)][[critique](https://github.com/Min-Sheng/paper-critiques/blob/master/week11/DiscoveringDiscreteLatentTopicsWithNeuralVariationalInference/Critique.md)]
+- Week 12 – Automatic Neural Network Learning (autoML) + Structure Learning (5/9)
+  - Papers:
+    - Dong et al. DPP-Net – Device-Aware Progressive Search for Pareto-Optimal Neural Architectures, ECCV 2018. [[paper](https://arxiv.org/abs/1806.08198)][[critique](https://github.com/Min-Sheng/paper-critiques/blob/master/week12/DPP-Net:Device-awareProgressiveSearchForPareto-optimalNeuralArchitectures/Critique.md)]
 
