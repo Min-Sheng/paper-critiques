@@ -24,4 +24,7 @@ This is the paper critique storage for the course of [Advanced topics in MutiMed
 - Week 12 – Automatic Neural Network Learning (autoML) + Structure Learning (5/9)
   - Papers:
     - Dong et al. DPP-Net – Device-Aware Progressive Search for Pareto-Optimal Neural Architectures, ECCV 2018. [[paper](https://arxiv.org/abs/1806.08198)][[critique](https://github.com/Min-Sheng/paper-critiques/blob/master/week12/DPP-Net:Device-awareProgressiveSearchForPareto-optimalNeuralArchitectures/Critique.md)]
+- Week 13 – Deep Comprehension and Question and Answering (5/16)
+  - Papers:
+    - Bidirectional Attention Flow for Machine Comprehension, ICLR 2017. [[paper](https://arxiv.org/abs/1611.01603)][[critique](https://github.com/Min-Sheng/paper-critiques/blob/master/week13/Bi-DirectionalAttentionFlowForMachineComprehension/Critique.md)]
 
