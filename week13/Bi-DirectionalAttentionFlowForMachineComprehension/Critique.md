@@ -13,7 +13,7 @@ Th novelties of BIDAF are compared with the prvious works in the following:
   
 ### Visual question answwering (VQA)
   1. The question attends to different patches in the image.
-  2. Each questionword attends to each image patch.
+  2. Each question word attends to each image patch.
   3. Combining questions representations ar multiple levels (unigrams, bigrams, trigrams).
   4. Attending from the image back to the question words.
 BIDAF shares the similar idea from 4. and further take advantages of attention flow while these methods do not. 
@@ -29,6 +29,15 @@ Finally, BIDAF outperforms all previous models on SQuAD test set.
 
 ## Model
 <img width="90%" src="https://github.com/Min-Sheng/paper-critiques/raw/master/week13/Bi-DirectionalAttentionFlowForMachineComprehension/BiDirectional_Attention_Flow_Model.png"/>
+
+The architecture consists of 6 layers
+  1. Character Embedding Layer: projects each word to a vector space using character-level CNNs. 
+  2. Word Embedding Layer: projects each word to a vector space using a pre-trained word embedding model, GloVe.
+  3. Contextual Embedding Layer: utilizes contextual cues from surrounding words to refine the word embedding by LSTM.
+  The first three layers are applied to both the query and context paragraph.
+  4. Attention Flow Layer: couples the query and context word embedding vectors and generates a set of query-aware representations by bi-directional attention mechanism.
+  5. Modeling Layer: employs a LSTM to modeling the interaction within the representations.
+  6. Output Layer: predicts an answer to the query.
 
 ## Results
 
