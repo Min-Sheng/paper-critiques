@@ -39,7 +39,5 @@ The architecture consists of 6 layers
   5. Modeling Layer: employs a LSTM to modeling the interaction within the representations.
   6. Output Layer: predicts an answer to the query.
 
-## Results
-
 ## Future work
 Extening BIDAF to incorporate multiple hops of the attention layer.
