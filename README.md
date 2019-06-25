@@ -31,4 +31,8 @@ This is the paper critique storage for the course of [Advanced topics in MutiMed
   - Papers:
     - Howard et al. MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. arXiv 2017. [[paper](https://arxiv.org/abs/1704.04861)][[critique](https://github.com/Min-Sheng/paper-critiques/blob/master/week14/MobileNets:EfficientConvolutionalNeuralNetworksForMobileVisionApplications/Critique.md)]
     - Cheng et al. Model Compression and Acceleration for Deep Neural Networks: The Principles, Progress, and Challenges. IEEE Signal Processing Magazine 2018. [[paper](https://ieeexplore.ieee.org/document/8253600)][[critique](https://github.com/Min-Sheng/paper-critiques/blob/master/week14/ModelCompressionAndAccelerationForDeepNeuralNetworks/Critique.md)]
+- Week 16 – Few (Zero)-Shot Learning (6/6)
+  - Papers:
+    - Chen et al. A Closer Look at Few-shot Classification. ICLR 2019. [[paper](https://arxiv.org/abs/1904.04232)][[critique](https://github.com/Min-Sheng/paper-critiques/blob/master/week16/ACloserLookAtFew-shotClassification/Critique.md)]
+
 
